@@ -39,15 +39,9 @@ This project is an **AI-powered medical diagnosis system** that predicts multipl
    Click the button to see the prediction
 
 ## 📂 Project Structure
-AI-Medical-Diagnosis/
-│── Models/                  # Saved ML models
-│── Datasets/                # Training datasets
-│── app.py                   # Streamlit app script
-│── Heart_Disease_Prediction.ipynb
-│── Lung_Cancer.ipynb
-│── Parkinson's_Disease_Detection.ipynb
-│── Thyroid.ipynb
-│── README.md                # Project Documentation
+
+![image](https://github.com/user-attachments/assets/2debac3f-7fda-4935-8a63-19a82c39b9df)
+
 
 ## 📌 Usage
 This AI-powered medical diagnosis system helps users predict diseases based on their medical data.
@@ -75,7 +69,9 @@ Each prediction is displayed in an easy-to-understand format, providing either a
 
 ## Future Work
 Add more disease predictions
+
 Improve UI/UX
+
 Deploy to the cloud (AWS/GCP)
 
 ## 🤝 Contributing
