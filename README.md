@@ -22,9 +22,9 @@ This project is an **AI-powered medical diagnosis system** that predicts multipl
 
 ## 🚀 How to Run the Project  
 1. **Clone the Repository**:
-   ```
+```
    git clone https://github.com/NAGINENIROHITH/AI-Medical-Diagnosis.git
-   ```
+```
 3. **Install Dependencies**:
 ```
    pip install -r requirements.txt
